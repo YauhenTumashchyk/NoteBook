@@ -1,0 +1,14 @@
+# Java files
+*.class
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+target/
+test-output/
