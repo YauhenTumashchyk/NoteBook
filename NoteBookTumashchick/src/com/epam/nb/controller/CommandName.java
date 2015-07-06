@@ -1,0 +1,12 @@
+package com.epam.nb.controller;
+
+public enum CommandName {
+	NEW_NOTEBOOK_COMMAND,
+    ADD_NEW_NOTE_COMMAND,
+    FIND_NOTE_COMMAND,
+    FIND_NOTE_BY_DATE_COMMAND,
+    FIND_ALL_NOTES_COMMAND,
+    CHANGE_NOTE_COMMAND,
+    DELETE_NOTE_COMMAND,
+
+}
